@@ -2,7 +2,7 @@
 - 👀 I’m interested in web technologies, mobile apps, e-commerce and MTB 🚵‍♂️
 - 🌱 I’m currently learning Javascript, Node, Reacj Js, NextJs, [SemVer](https://semver.org/) and other web technologies
 - 💞️ I’m looking to collaborate on web projects
-- 📫 Reach me on web site [felipeandreslopez.com](https://felipeandreslopez.com) 
+- 📫 Reach me on web site [felipeandreslopez.dev](https://felipeandreslopez.dev) 
 
 <!---
 FelipeAndresLopez/FelipeAndresLopez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
