@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FelipeAndresLopez
-- 👀 I’m interested in web technologies, mobile apps, e-commerce and MTB 🚵‍♂️
-- 🌱 I’m currently learning Javascript, Node, Reacj Js, NextJs, [SemVer](https://semver.org/) and other web technologies
+- 👀 I’m interested in web technologies.
+- 🌱 I’m currently learning Javascript, NodeJS, ReactJS, NextJs, [SemVer](https://semver.org/) and other web technologies
 - 💞️ I’m looking to collaborate on web projects
 - 📫 Reach me on web site [felipeandreslopez.dev](https://felipeandreslopez.dev) 
 
